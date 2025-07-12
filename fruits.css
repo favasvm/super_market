@@ -1,0 +1,19 @@
+body{
+    background-color: lightslategray;
+}
+
+h1{
+   text-align: center;
+   text-decoration: underline;
+}
+
+.product{
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+.products{
+    background-color:white;
+    width: 300px;
+    text-align: center;
+}
